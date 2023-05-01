@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/taxi-data-analysis">Taxi</a></td>
+      <td><a href="https://github.com/jeeyoonkim/taxi-data-analysis/blob/main/taxi.ipynb">Taxi Data Analysis</a></td>
       <td>Comparing velocity vs distance, aggregating velocity, comparing velocity vs hour of day, trip counts by boroughs of NYC, predicting the travel time using linear regression</td>
       <td>Python</td>
     </tr>
@@ -45,17 +45,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/consumer-visualization">Consumer Visualization</a></td>
+      <td><a href="https://github.com/jeeyoonkim/consumer-visualization/blob/master/public_site/index.htm">Consumer Visualization</a></td>
       <td>This was a team project. I designed created an information box when dots on the map are clicked and plotted the price range bar chart. Check out <a href="https://pittsburg-houses.onrender.com/">this website</a></td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/bank-failures-visualization">Bank Failure Visualization</a></td>
+      <td><a href="https://github.com/jeeyoonkim/bank-failures-visualization/blob/master/public_site/index.htm">Bank Failure Visualization</a></td>
       <td>This was a team project. I created the bar chart and deployed interaction. Check out <a href="https://bank-failures-visualization.onrender.com/">this website</a></td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/meteorite-landings-visualization">Meteorite Landing Visualization</a></td>
+      <td><a href="https://github.com/jeeyoonkim/meteorite-landings-visualization/blob/master/public_site/index.htm">Meteorite Landing Visualization</a></td>
       <td>This was a team project. I created a Decades vs Number of Meteorite line chart. Check out <a href="https://meteorite-landings-visualization.onrender.com/">this website</a></td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
