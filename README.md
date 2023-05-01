@@ -1,3 +1,6 @@
+<h1> Hello 👋 I'm Jessie </h1> 
+<p> Followings are my projects from ORIE 3120, INFO 4310, and INFO 4300 class at Cornell University. </p>
+  
 <h2>SQL Project</h2>
 <table>
   <thead>
@@ -73,7 +76,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/winenight">Wine night</a></td>
+      <td><a href="https://github.com/jeeyoonkim/winenight">Wine Night</a></td>
       <td>This was a team project. I was a product designer and frontend developer. I designed the website and developed the mood and output cards of result when recommend button is clicked. I also implemented the like and dislike button to collect the user feedback. Check out <a href="http://4300showcase.infosci.cornell.edu:4520/">this website</a></td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
