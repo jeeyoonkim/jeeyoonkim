@@ -1,31 +1,81 @@
-### Hi there 👋
+<h2>SQL Project</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/sql-projects/blob/master/Northwind.sql">Northwind.sql</a></td>
+      <td>Exploring the data, especially on the discounts of the products produced by the company named Northwind</td>
+      <td>SQL</td>
+    </tr>
+  </tbody>
+</table>
 
-I am Jessie JeeYoon Kim :) 
+<h2>Data Analysis Project</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/taxi-data-analysis">Taxi</a></td>
+      <td>Comparing velocity vs distance, aggregating velocity, comparing velocity vs hour of day, trip counts by boroughs of NYC, predicting the travel time using linear regression</td>
+      <td>Python</td>
+    </tr>
+  </tbody>
+</table>
 
-**1. SQL Project 
-**
-| Project Name | Description | Language |
-| --- | --- | --- |
-| [`Northwind.sql`](https://github.com/jeeyoonkim/sql-projects/blob/master/Northwind.sql)| Exploring the data, especially on the discounts of the products produced by the company named Northwind | sql |
+<h2>Data Visualization Project</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/consumer-visualization">Consumer Visualization</a></td>
+      <td>This was a team project. I designed created an information box when dots on the map are clicked and plotted the price range bar chart. Check out <a href="https://pittsburg-houses.onrender.com/">this website</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/bank-failures-visualization">Bank Failure Visualization</a></td>
+      <td>This was a team project. I created the bar chart and deployed interaction. Check out <a href="https://bank-failures-visualization.onrender.com/">this website</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/meteorite-landings-visualization">Meteorite Landing Visualization</a></td>
+      <td>This was a team project. I created a Decades vs Number of Meteorite line chart. Check out <a href="https://meteorite-landings-visualization.onrender.com/">this website</a></td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+  </tbody>
+</table>
 
-2. Data Analysis Project 
-
-| Project Name | Description | Language |
-| --- | --- | --- |
-| [`Taxi`](https://github.com/jeeyoonkim/taxi-data-analysis) | Comparing velocity vs distance, aggregating velocity, comparing velocity vs hour of day, trip counts by boroughs of NYC, predicting the travel time using linear regression | python |
-
-3. Data Visualization Project 
-
-| Project Name | Description | Language |
-| --- | --- | --- |
-| [`Consumer Visualization`](https://github.com/jeeyoonkim/consumer-visualization) | This was a team project. I designed created an information box when dots on the map are clicked and plotted the price range bar chart. Check out [this website](https://pittsburg-houses.onrender.com/) | html,css,javascript |
-| [`Bank Failure Visualization`](https://github.com/jeeyoonkim/bank-failures-visualization) | This was a team project. I created the bar chart and deployed interaction. Check out [this website](https://bank-failures-visualization.onrender.com/) | html,css,javascript |
-| [`Meteorite Landing Visualization`](https://github.com/jeeyoonkim/meteorite-landings-visualization) | This was a team project. I created a Decades vs Number of Meteorite line chart. Check out [this website](https://meteorite-landings-visualization.onrender.com/) | html,css,javascript |
-
-4. Search Algorithm Project 
-
-| Project Name | Description | Language |
-| --- | --- | --- |
-| [`Wine night`](https://github.com/jeeyoonkim/winenight) | This was a team project. I was a product designer and frontend developer. I designed the website and developed the mood and output cards of result when recommend button is clicked. I also implemented the like and dislike button to collect the user feedback. Check out [this website](http://4300showcase.infosci.cornell.edu:4520/) | html,css,javascript |
-
-
+<h2>Search Algorithm Project</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jeeyoonkim/winenight">Wine night</a></td>
+      <td>This was a team project. I was a product designer and frontend developer. I designed the website and developed the mood and output cards of result when recommend button is clicked. I also implemented the like and dislike button to collect the user feedback. Check out <a href="http://4300showcase.infosci.cornell.edu:4520/">this website</a></td>
+      <td>html,css,javascript</td>
+    </tr>
+  </tbody>
+</table>
