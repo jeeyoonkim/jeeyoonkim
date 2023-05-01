@@ -46,7 +46,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/jeeyoonkim/consumer-visualization/blob/master/public_site/index.htm">Consumer Visualization</a></td>
-      <td>This was a team project. I designed created an information box when dots on the map are clicked and plotted the price range bar chart. Check out <a href="https://pittsburg-houses.onrender.com/">this website</a></td>
+      <td>This was a team project. I designed and created an information box when dots on the map are clicked and plotted the price range bar chart. Check out <a href="https://pittsburg-houses.onrender.com/">this website</a></td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@
     <tr>
       <td><a href="https://github.com/jeeyoonkim/winenight">Wine night</a></td>
       <td>This was a team project. I was a product designer and frontend developer. I designed the website and developed the mood and output cards of result when recommend button is clicked. I also implemented the like and dislike button to collect the user feedback. Check out <a href="http://4300showcase.infosci.cornell.edu:4520/">this website</a></td>
-      <td>html,css,javascript</td>
+      <td>HTML, CSS, JavaScript</td>
     </tr>
   </tbody>
 </table>
