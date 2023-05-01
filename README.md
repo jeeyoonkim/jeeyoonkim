@@ -1,4 +1,4 @@
-<h1> Hello 👋 I'm Jessie </h1> 
+<h1> Hello 👋 I'm Jessie JeeYoon Kim </h1> 
 <p> Followings are my projects from ORIE 3120, INFO 4310, and INFO 4300 class at Cornell University. </p>
   
 <h2>SQL Project</h2>
