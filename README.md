@@ -18,7 +18,7 @@
       <td>Python</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/jeeyoonkim/sql-projects/blob/master/Northwind.sql">Northwind.sql</a></td>
+      <td><a href="https://github.com/jeeyoonkim/sql-projects/blob/master/Northwind.sql">Northwind</a></td>
       <td>Northwind SQL project involves exploring data on the discounts of products produced by the company Northwind.</td>
       <td>SQL</td>
     </tr>
