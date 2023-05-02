@@ -64,7 +64,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/winenight">Wine Night</a></td>
+      <td><a href="https://github.com/jeeyoonkim/winenight/blob/master/backend/templates/base.html">Wine Night</a></td>
       <td>Wine Night is a wine recommender that makes it easier for users to discover the wines they love effortlessly. As a product designer and frontend developer in a team project, I designed the website and implemented the mood and output cards that are displayed when the user clicks the recommend button. I also added the like and dislike button functionality to collect user feedback. Please check out our <a href="http://4300showcase.infosci.cornell.edu:4520/">website</a> to see the final product. </td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
