@@ -1,4 +1,5 @@
 <h1> Hello 👋 I'm Jessie JeeYoon Kim </h1> 
+<p> I am studying Information Science, concentrating on UX and Data Science at Cornell University.</p>
 <p> Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, and INFO 4300 classes at Cornell University. </p>
   
 
@@ -47,7 +48,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/jeeyoonkim/meteorite-landings-visualization/blob/master/public_site/index.htm">Meteorite Landing Visualization</a></td>
-      <td>As part of a team project, I created a line chart that displays the relationship between decades and the number of meteorites. Please check out our <a href="https://meteorite-landings-visualization.onrender.com/">website</a> website to see the chart in action. </td>
+      <td>As part of a team project, I created a line chart that displays the relationship between decades and the number of meteorites. Please check out our <a href="https://meteorite-landings-visualization.onrender.com/">website</a> to see the chart in action. </td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
   </tbody>
