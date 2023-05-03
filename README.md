@@ -1,6 +1,6 @@
 <h1> Hello 👋 I'm Jessie JeeYoon Kim </h1> 
-<p> I am studying Information Science, concentrating on UX and Data Science at Cornell University.</p>
-<p> Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, and INFO 4300 classes at Cornell University. </p>
+<p> I am studying Information Science, concentrating on UX and Data Science at Cornell University. <br> 
+Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, and INFO 4300 classes at Cornell University. </p>
   
 
 <h2>Data Analysis</h2>
