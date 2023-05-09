@@ -1,32 +1,26 @@
-<h1> 안녕하세요👋 김지윤입니다</h1> 
-<p> 저는 미국 코넬대학교 4학년으로 Information Science를 전공하고 있습니다. 세부전공으로 UX와 Data Science를 공부하고 있습니다. <br> 
-하기 프로젝트 목록은 재학 중 수강하였던 수업에서 진행한 프로젝트들입니다.</p>
+<h1> Hello 👋 I'm Jessie JeeYoon Kim </h1> 
+<p> I am studying Information Science, concentrating on UX and Data Science at Cornell University. <br> 
+Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, and INFO 4300 classes at Cornell University. </p>
   
 
-<h2>데이터 분석</h2>
+<h2>Data Analysis</h2>
 <table>
   <thead>
     <tr>
-      <th>제목</th>
-      <th>설명</th>
-      <th>구분</th>
-      <th>역할</th>
-      <th>언어</th>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Language</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jeeyoonkim/taxi-data-analysis/blob/main/taxi.ipynb">택시 데이터 분석</a></td>
-      <td>제공된 데이터를 활용하여 택시 주행 속도와 주행 거리의 관계, 주행 속도와 시간대, 뉴욕 내 <br> 자치구별 방문 횟수를 분석하였고, 선형 회귀(Linear Regression)을 활용한주행 시간 예측 모델을  <br>생성하였습니다.</td>
-      <td>개인 프로젝트</td>
-      <td>개발</td>
+      <td><a href="https://github.com/jeeyoonkim/taxi-data-analysis/blob/main/taxi.ipynb">Taxi Data Analysis</a></td>
+      <td>Taxi Data Analysis project includes the following tasks: comparing velocity vs distance, aggregating velocity, comparing velocity vs hour of day, determining trip counts by boroughs of NYC, and predicting travel time using linear regression. </td>
       <td>Python</td>
     </tr>
      <tr>
       <td><a href="https://github.com/jeeyoonkim/sql-projects/blob/master/Northwind.sql">Northwind</a></td>
-      <td>Northwind라는 물품 회사는 "더 적은 할인을 제공함으로써 매출을 늘릴 수 있는 기회가 있는지"를<br> 조사하고자 합니다. 이를 위하여 매출 데이터를 활용하여 총 할인 금액, 주문 당 할인 금액,<br> 고객별 할인 금액, 제품별 할인 여부 데이터를 제공하였습니다.
-       <td>개인 프로젝트</td>
-      <td>개발</td>
+      <td>Northwind SQL project involves exploring data on the discounts of products produced by the company Northwind.</td>
       <td>SQL</td>
     </tr>
   </tbody>
