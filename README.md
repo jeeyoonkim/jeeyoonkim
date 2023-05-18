@@ -36,6 +36,12 @@ Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, an
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/jeeyoonkim/nyc-graduation-rate/blob/main/NYC_Graduation_Rate.ipynb">NYC HighSchool Graduation Rate</a></td>
+      <td>As part of a team project, I played a key role in planning the research question to investigate from the New York City Public HighSchool data which include New York City school districts, boroughs, graduation rate, and various features such as school fundings and demogrpahics. I also created a KNN model to investigate districts cluster in location based on dataset variables. Please check out our <a href="https://drive.google.com/file/d/1wSHb0KKczolW2eqqQGOr67QGyzdoGwkD/view?usp=sharing">report</a> to see the full analysis. </td>
+      <td>Python</td>
+    </tr>
+    
     <tr>
       <td><a href="https://github.com/jeeyoonkim/consumer-visualization/blob/master/public_site/index.htm">Consumer Visualization</a></td>
       <td>As part of a team project, I played a key role in designing and creating an information box that appears when users click on dots on the map. Additionally, I plotted the price range bar chart. Please check out our <a href="https://pittsburg-houses.onrender.com/">website</a> to see the project in action. </td>
