@@ -75,7 +75,7 @@ Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, an
       <td>HTML, CSS, JavaScript, Python</td>
     </tr>
         <tr>
-      <td><a href="https://github.com/jeeyoonkim/search-algorithm/tree/main">Conversational data analysis on "Keeping Up With The Kardashians"</a></td>
+      <td><a href="https://github.com/jeeyoonkim/search-algorithm/blob/main/a4notebook.ipynb">Conversational data analysis on "Keeping Up With The Kardashians"</a></td>
       <td>I employed tokenization to segment the transcripts from the TV show "Keeping Up With The Kardashians" and utilized various algorithms, including Jaccard similarity, minimum edit distance, cosine similarity, and the Rocchio method. In addition, techniques such as TF-IDF vectorization and inverted indexing were applied.
 </td>
       <td>Python</td>
