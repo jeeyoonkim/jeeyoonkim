@@ -59,7 +59,7 @@ Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, an
   </tbody>
 </table>
 
-<h2>Search Algorithm</h2>
+<h2>Search & Recommendation Algorithm</h2>
 <table>
   <thead>
     <tr>
@@ -70,13 +70,13 @@ Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, an
   </thead>
   <tbody>
         <tr>
-      <td><a href="https://github.com/jeeyoonkim/search-algorithm/tree/main">Wine Night</a></td>
+      <td><a href="https://github.com/jeeyoonkim/winenight/blob/master/backend/templates/base.html">Wine Night</a></td>
       <td>Wine Night is a wine recommender that makes it easier for users to discover the wines they love effortlessly. As a product designer and frontend developer in a team project, I designed the website and implemented the mood and output cards that are displayed when the user clicks the recommend button. I also added the like and dislike button functionality to collect user feedback. Please check out our <a href="http://4300showcase.infosci.cornell.edu:4520/">website</a> to see the final product. </td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
         <tr>
-      <td><a href="https://github.com/jeeyoonkim/winenight/blob/master/backend/templates/base.html">Conversational data analysis on "Keeping Up With The Kardashians"</a></td>
-      <td>AI employed tokenization to segment the transcripts from the TV show "Keeping Up With The Kardashians" and utilized various algorithms, including Jaccard similarity, minimum edit distance, cosine similarity, and the Rocchio method. In addition, techniques such as TF-IDF vectorization and inverted indexing were applied.
+      <td><a href="https://github.com/jeeyoonkim/search-algorithm/tree/main">Conversational data analysis on "Keeping Up With The Kardashians"</a></td>
+      <td>I employed tokenization to segment the transcripts from the TV show "Keeping Up With The Kardashians" and utilized various algorithms, including Jaccard similarity, minimum edit distance, cosine similarity, and the Rocchio method. In addition, techniques such as TF-IDF vectorization and inverted indexing were applied.
 </td>
       <td>Python</td>
     </tr>
