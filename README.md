@@ -1,5 +1,5 @@
 <h1> Hello 👋 I'm Jessie JeeYoon Kim </h1> 
-<p> I am studying Information Science, concentrating on Data Science and UX at Cornell University. <br> 
+<p> I am currently working as a Data Science Product Manager at MUSINSA. <br> I studied Information Science, concentrating on Data Science and UX at Cornell University. <br> 
 Below are some of the projects I worked on while taking ORIE 3120, INFO 4310, and INFO 4300 classes at Cornell University. </p>
   
 
